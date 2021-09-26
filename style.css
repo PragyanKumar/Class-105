@@ -1,0 +1,19 @@
+body{
+    background-color: darkorange;
+    color:firebrick;
+}
+.heading{
+    width: 80%;
+    font-size: 36px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+color: floralwhite;
+font-family:'Times New Roman', Times, serif;
+font-size: 29px;
+background-color: gold;
+}
+#camera{
+    border:2px solid green  ;
+    height: 300px;
+    width: 350px;
+}
